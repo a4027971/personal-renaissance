@@ -8,6 +8,10 @@ tag: Array
 time: O(N)
 space: O(N) + O(2N) = O(N)
 tag: Hash Table
+
+# TODO:
+# 1 optimize
+# 2 read others answer
 '''
 
 # 1

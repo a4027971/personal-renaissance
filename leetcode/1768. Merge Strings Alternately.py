@@ -1,6 +1,11 @@
 '''
 time: O(N+M)
 space: O(N+M)
+tag: Array, String
+
+# TODO:
+# 1 optimize
+# 2 read others answer
 '''
 
 class Solution:
